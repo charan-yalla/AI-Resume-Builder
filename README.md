@@ -102,10 +102,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-
-## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: y.l.charanteja381@gmail.com
